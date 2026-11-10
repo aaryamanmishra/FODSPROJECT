@@ -57,3 +57,7 @@ The standalone C++ interactive benchmark does not require the Python model.
 ## Contributing
 
 Issues and pull requests are welcome. Please include compiler details and sample input when reporting C++ benchmark problems.
+
+## License
+
+No `LICENSE` file is currently included in this repository. Until a license is added, the code does not have an explicit open-source reuse license.
